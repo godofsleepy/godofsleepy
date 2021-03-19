@@ -1,6 +1,6 @@
 ![Header](https://github.com/godofsleepy/godofsleepy/blob/main/header.png)
 
-<h3 align="center">A passionate Mobile developer from Indonesia</h3>
+<h3 align="center">A passionate Mobile developer 👨🏻‍💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
