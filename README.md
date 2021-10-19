@@ -15,6 +15,9 @@ My name is Rifat Khadafy and you can call me Rifat. I am a Mobile Developer and 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dapipi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dapipi" /></a></p><br><br>
 
+### Github Stats
+
+[![Rifat Github Stats](https://github-readme-stats.vercel.app/api?username=godofsleepy&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)](https://github.com/godofsleepy)
 <!--
 **godofsleepy/godofsleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
