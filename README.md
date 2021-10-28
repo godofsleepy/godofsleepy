@@ -17,7 +17,7 @@ My name is Rifat Khadafy and you can call me Rifat. I am a Mobile Developer and 
 
 ### Github Stats
 
-[![Rifat Github Stats](https://github-readme-stats.vercel.app/api?username=godofsleepy&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)](https://github.com/godofsleepy)
+[![Rifat Github Stats](https://github-readme-stats.vercel.app/api?username=godofsleepy&show_icons=true&theme=graywhite&count_private=true)](https://github.com/godofsleepy)
 <!--
 **godofsleepy/godofsleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
