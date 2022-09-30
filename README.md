@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer 👨🏻‍💻</h3>
 
-My name is Rifat Khadafy and you can call me Rifat. I am a Mobile Developer and also in love with money, Now I am focusing on developing Mobile applications (both ios and android) using Flutter and creating application designs using Figma or XD. You can see some of my works on dribbble,github or u can check my website https://portofolio-rifat.web.app/ 
+My name is Rifat Khadafy and you can call me Rifat. I am a Mobile Developer and also in love with money, Now I am focusing on developing Mobile applications (both ios and android) using Flutter and creating application designs using Figma or XD. You can see some of my works on dribbble,github 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
