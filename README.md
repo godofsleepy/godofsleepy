@@ -1,5 +1,3 @@
-![Header](https://github.com/godofsleepy/godofsleepy/blob/main/header.png)
-
 <h3 align="center">A passionate developer 👨🏻‍💻</h3>
 
 My name is Rifat Khadafy and you can call me Rifat. I am a Mobile Developer currently i am focusing on developing Mobile applications (both ios and android) using Flutter and Developing Product. You can see some of my works on dribbble,github and my portofolio website
